@@ -13,7 +13,7 @@ date_default_timezone_set("Asia/Jakarta");
     <div class="container">
         <div class="row">
             <div class="col-md-4 offset-md-4 form login-form">
-                <form action="login-user.php" method="POST" autocomplete="">
+                <form action="login-user.php" method="POST" autocomplete="on">
                     <h2 class="text-center">Login Form</h2>
                     <p class="text-center">login menggunakan password dan email</p>
                     <?php
